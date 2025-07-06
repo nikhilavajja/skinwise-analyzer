@@ -1,0 +1,6 @@
+POST /api/assessments - Submit skin assessment results
+POST /api/users - Create user profiles
+POST /api/routines - Create custom skincare routines
+POST /api/products/reviews - Submit product reviews
+POST /api/routine-tracking - Log routine completion
+POST /api/consultations - Request professional consultations
