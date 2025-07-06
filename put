@@ -1,0 +1,8 @@
+PUT /api/users/:id - Update user profile information
+PUT /api/assessments/:id - Update assessment results
+PUT /api/routines/:id - Update skincare routines
+PUT /api/products/reviews/:id - Update product reviews
+PUT /api/routine-tracking/:id - Update routine entries
+PUT /api/consultations/:id - Update consultation requests
+PUT /api/users/:id/preferences - Update user preferences
+PUT /api/users/:id/goals - Update skin goals
